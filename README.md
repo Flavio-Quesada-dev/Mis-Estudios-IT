@@ -3,7 +3,7 @@
 Estudiante de 9no / Futuro BT en TI (UTU, Uruguay) 🇺🇾 | Aspirante a Ingeniero en Computación (FING) | Aprendiendo lógica y desarrollo de software paso a paso.
 
 ## 🎯 Mi Meta
-Llegar a ser **Ingeniero L8 en Shopify** ($300k USD).
+Llegar a ser **Ingeniero L8 en Shopify**.
 
 ## 🛠️ Logros Pre-UTU (Autodidacta)
 - [x] Configuración de entorno GitHub.
