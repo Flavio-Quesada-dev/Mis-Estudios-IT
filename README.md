@@ -11,7 +11,8 @@ Llegar a ser **Ingeniero L8 en Shopify**.
 - [x] Primer motor de descuentos simulado para e-commerce.
 
 ## 📈 Mi Roadmap
-- [ ] Iniciar Bachillerato Tecnológico en TI (UTU).
+- [ ] Completar cursos de Fundación Carlos Slim (Lógica, Redes y Soporte TI).
+- [ ] Postular a Beca 100% (Gratuidade) - SENAI Cascavel (Tech IT Bilíngue)
 - [ ] Ingreso a la FING (UdelaR).
 - [ ] Dominar el stack de Shopify (Ruby on Rails + React).
 - [ ] **Posición Senior L8 en Shopify.**
